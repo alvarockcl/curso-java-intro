@@ -72,6 +72,9 @@ mvn package
 java -cp target/hola-mundo-1.0-SNAPSHOT.jar cl.fuentes.app.App
 
 
+### Convertir a Eclipse
+
+mvn eclipse:eclipse
 
 
 
