@@ -63,6 +63,8 @@ mvn archetype:generate -DgroupId=cl.fuentes.app
 					   -DinteractiveMode=false
 
 
+cd hola-mundo
+					   
 mvn clean
 					   
 mvn package
