@@ -36,7 +36,7 @@ Settings.xml
 </settings>
 ```
 
-Maven Eclipse Setup
+### Maven Eclipse Setup
 
 Windows \ Preferences \ Maven \ Intallations \
 
