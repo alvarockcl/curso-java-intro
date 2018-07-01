@@ -55,8 +55,19 @@ Local Repository
 D:\M2_REPOSITORY
 
 
+### Primer Proyecto
+
+mvn archetype:generate -DgroupId=cl.fuentes.app
+					   -DartifactId=hola-mundo
+					   -DarchetypeArtifactId=maven-archetype-quickstart
+					   -DinteractiveMode=false
 
 
+mvn clean
+					   
+mvn package
+
+java -cp target/hola-mundo-1.0-SNAPSHOT.jar cl.fuentes.app.App
 
 
 
