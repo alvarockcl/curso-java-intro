@@ -21,9 +21,11 @@ MAVEN_HOME
 D:\apache-maven-3.5.0
 
 Repositorio
-
+```
 D:\M2_REPOSITORY
-
+```
+Settings.xml
+```
 <?xml version="1.0" encoding="UTF-8"?>
 <settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -32,3 +34,4 @@ D:\M2_REPOSITORY
   <localRepository>D:\M2_REPOSITORY</localRepository>
 
 </settings>
+```
