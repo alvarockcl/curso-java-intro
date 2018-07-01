@@ -35,3 +35,30 @@ Settings.xml
 
 </settings>
 ```
+
+Maven Eclipse Setup
+
+Windows \ Preferences \ Maven \ Intallations \
+
+Add Directory - Installation home
+
+D:\apache-maven-3.5.0
+
+User settings - Browser settings 
+
+Global Settings y User Settings
+
+D:\apache-maven-3.5.0\conf\settings.xml
+
+Local Repository
+
+D:\M2_REPOSITORY
+
+
+
+
+
+
+
+
+
