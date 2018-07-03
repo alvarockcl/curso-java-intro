@@ -5,7 +5,7 @@
   <artifactId>02-ObtenerDatosConsola</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>ejemplo-01</name>
+  <name>02-ObtenerDatosConsola</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>

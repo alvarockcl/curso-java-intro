@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>cl.fuentes.app</groupId>
-  <artifactId>01-HolaMundo</artifactId>
+  <artifactId>03-Variables</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>01-HolaMundo</name>
+  <name>03-Variables</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
