@@ -1,6 +1,6 @@
 ## Curso Introducción a Java
 
-## Configuraciones
+## Configuraciones Principales
 
 ### Variables de Entorno
 
