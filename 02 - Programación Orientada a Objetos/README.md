@@ -1,2 +1,2 @@
-## Curso Introducción a Java
+## Programación Orientada a Objetos
 
