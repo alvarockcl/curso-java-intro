@@ -1,10 +1,11 @@
 ## Curso Introducción a Java
 
-
+## Configuraciones Principales
 
 ### Variables de Entorno
 
 Java JDK 8
+Maven
 
 JAVA_HOME
 C:\Program Files\Java\jdk1.8.0_171
