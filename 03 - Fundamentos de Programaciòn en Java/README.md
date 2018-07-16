@@ -1,2 +1,2 @@
-## Curso Introducción a Java
+## Fundamentos de la Programación en Java
 
